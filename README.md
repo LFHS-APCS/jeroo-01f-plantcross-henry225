@@ -1,3 +1,4 @@
+[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3040055&assignment_repo_type=AssignmentRepo)
 In Jeroo.java, write the method ```plantCross()``` that will plant flowers around the cross as shown in the pictures below.  The Jeroo will start at (0,0) facing EAST.
 
 You should be using helper methods.  Do NOT put all the code inside of ```plantCross()```.
